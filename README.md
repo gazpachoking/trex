@@ -11,7 +11,7 @@ trex.py authenticate <plex username>
 
 Starts authentication to trakt.tv and records the oauth token in trex config
 file. Follow the instructions to complete the authentication. Any plex plays by
-<plex username> will then be scrobbled to the authenticated trakt account.
+`<plex username>` will then be scrobbled to the authenticated trakt account.
 
 ```sh
 trex.py run
